@@ -1,0 +1,2 @@
+# WertyTGNotTradeBot
+Not contest
