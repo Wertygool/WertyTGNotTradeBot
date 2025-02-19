@@ -1,2 +1,3 @@
 # WertyTGNotTradeBot
 Not contest
+s
