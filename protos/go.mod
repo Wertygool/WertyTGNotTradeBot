@@ -14,4 +14,4 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241202173237-19429a94021a // indirect
 )
 
-replace proto => github.com/Wertygool/WertyTGNotTradeBot/protos latest
+replace proto => github.com/Wertygool/WertyTGNotTradeBot/protos v0.0.0-20250219142119-14f677cb9181
