@@ -1,4 +1,4 @@
-module github.com/Wertygool/WertyTGNotTradeBot/protos
+module proto
 
 go 1.22.5
 
