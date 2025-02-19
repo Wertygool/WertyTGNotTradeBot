@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/Wertygool/WertyTGNotTradeBot/protos/auth"
+	"proto/auth"
 )
 
 func main() {
